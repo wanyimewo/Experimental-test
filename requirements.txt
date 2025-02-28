@@ -1,0 +1,5 @@
+dhg==0.9.3
+scikit_learn==1.0.1
+scipy>=1.8
+torch>=1.12.1
+
